@@ -4,7 +4,7 @@ END USER LICENCE AGREEMENT
 
 Last updated November 24, 2023
 
-Ventful is licensed to You (End-User) by Ventful Ltd, located at \***\*\_\_\*\***, \***\*\_\_\*\***, \***\*\_\_\*\*** \***\*\_\_\*\***, United Kingdom ('Licensor'), for use only under the terms of this Licence Agreement.
+Ventful is licensed to You (End-User) by Ventful Ltd, located at 167-169 Great Portland street, 5th Floor, London, W1W 5PF, United Kingdom ('Licensor'), for use only under the terms of this Licence Agreement.
 
 By downloading the Licensed Application from Apple's software distribution platform ('App Store') and Google's software distribution platform ('Play Store'), and any update thereto (as permitted by this Licence Agreement), You indicate that You agree to be bound by all of the terms and conditions of this Licence Agreement, and that You accept this Licence Agreement. App Store and Play Store are referred to in this Licence Agreement as 'Services'.
 
