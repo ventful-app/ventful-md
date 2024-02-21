@@ -2,15 +2,15 @@
 
 TERMS AND CONDITIONS
 
-Last updated November 21, 2023
+Last updated February 21, 2024
 
 AGREEMENT TO OUR LEGAL TERMS
 
-We are Ventful Ltd ('Company', 'we', 'us', or 'our'), a company registered in \***\*\_\_\*\*** at \***\*\_\_\*\***, \***\*\_\_\*\***.
+We are Ventful Ltd ('Company', 'we', 'us', or 'our'), a company registered in 167-169 Great Portland street, 5th Floor, London, W1W 5PF*.
 
 We operate the website [http://www.ventful-app.com](http://www.ventful-app.com/) (the 'Site'), the mobile application Ventful (the 'App'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
 
-You can contact us by email at [luke@ventful-app.com](mailto:luke@ventful-app.com) or by mail to \***\*\_\_\*\***, \***\*\_\_\*\***, \***\*\_\_\*\***.
+You can contact us by email at [luke@ventful-app.com](mailto:luke@ventful-app.com) or by mail to Ventful Ltd, 167-169 Great Portland street, 5th Floor, London, W1W 5PF.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and Ventful Ltd, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -213,7 +213,7 @@ We cannot guarantee the Services will be available at all times. We may experien
 
 1. GOVERNING LAW
 
-These Legal Terms are governed by and interpreted following the laws of the United Kingdom, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Ventful Ltd and yourself both agree to submit to the non-exclusive jurisdiction of the courts of \***\*\_\_\*\***, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in the United Kingdom, or in the EU country in which you reside.
+These Legal Terms are governed by and interpreted following the laws of the United Kingdom, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. Ventful Ltd and yourself both agree to submit to the non-exclusive jurisdiction of the courts of the United Kingdom, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in the United Kingdom, or in the EU country in which you reside.
 
 1. DISPUTE RESOLUTION
 
@@ -266,6 +266,7 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 Ventful Ltd
+Ventful Ltd, 167-169 Great Portland street, 5th Floor, London, W1W 5PF
 
 ---
 
