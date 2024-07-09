@@ -1,6 +1,4 @@
-# PP
-
-PRIVACY POLICY
+# Privacy Policy
 
 Last updated November 21, 2023
 
@@ -101,6 +99,8 @@ To send you marketing and promotional communications. We may process the persona
 To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
 To determine the effectiveness of our marketing and promotional campaigns. We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
+When users upload images, we may automatically collect certain metadata associated with these images, such as date and time of upload, file size, and image dimensions.
 
 1. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
@@ -221,3 +221,24 @@ United Kingdom
 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
+
+13. USER GENERATED CONTENT (IN PARTICULAR: USER UPLOADED IMAGES)
+
+Our app allows users to upload profile images, event images, and memory images. These images are stored securely and are used solely for the purpose of enhancing user experience within the app.
+
+User-uploaded images are stored securely using Google Firestore and Amazon Web Services (AWS) S3 buckets. We implement industry-standard encryption and security measures to protect these images during transmission and storage.
+
+We do not sell, rent, or share user-uploaded images with any third parties. These images are used solely within our app for the purposes for which they were uploaded.
+
+We retain user-uploaded images for as long as the user's account is active or as needed to provide our services. Users can request deletion of their uploaded images at any time by contacting us.
+
+By uploading images to our app, users consent to the storage and processing of these images as described in this privacy policy.
+
+Users may choose to use profile images from linked social media accounts. In such cases, we only access and store the profile image as authorized by the user and in accordance with the respective social media platform's terms of service.
+
+Users have the right to access, correct, or delete their personal data, including uploaded images. To exercise these rights, please contact us using the information provided in the 'How can you contact us about this notice?' section.
+
+We do not knowingly collect or store images of children under 18 years of age. If we become aware that we have inadvertently collected such images, we will promptly delete them.
+
+We employ industry-standard security measures to protect user-uploaded images, including encryption during transmission and storage, access controls, and regular security audits.
+
